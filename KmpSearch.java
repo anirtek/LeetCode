@@ -47,3 +47,10 @@ public class KmpSearch {
 		else System.out.println("false");
 	}
 }
+
+/**
+ * Pattern Length: m
+ * Text Length: n
+ * Time Complexity: O(m+n)
+ * Space Complexity: O(m)
+ */
